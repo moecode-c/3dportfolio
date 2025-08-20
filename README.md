@@ -1,1 +1,2 @@
-# 3dportfolio
+# 3dportfolio 
+Interactive 3D Portfolio – A modern portfolio built with React and Spline, featuring three immersive 3D models that bring my projects and personality to life. Seamlessly integrated using React components, the models add depth and interactivity to the user experience, blending clean design with cutting-edge web graphics. Enhanced with smooth animations and responsive layouts using React Bites for optimized UI elements, this project showcases the fusion of design and code in modern web development.
