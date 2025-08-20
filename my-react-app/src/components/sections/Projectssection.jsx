@@ -1,5 +1,5 @@
 import "./projectsection.css";
-import afterlifeMuseumImg from '../../assets/purple background.webp';
+import afterlifeMuseumImg from '../../assets/purple-background.webp';
 import sunrisePyrImg from '../../assets/sunrisepyr.png';
 
 const Projectssection = () => {
