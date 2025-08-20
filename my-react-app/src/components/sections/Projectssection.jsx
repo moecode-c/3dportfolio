@@ -1,6 +1,10 @@
 import "./projectsection.css";
-import afterlifeMuseumImg from '../../assets/purple-background.webp';
-import sunrisePyrImg from '../../assets/sunrisepyr.png';
+// Replace local import causing failure with alias + fallback
+// import afterlifeMuseumImg from '../../assets/purple-background.webp';
+import sunrisePyrImg from '@assets/sunrisepyr.png';
+
+// Fallback placeholder until purple-background.webp is added & committed
+const afterlifeMuseumImg = 'https://via.placeholder.com/800x600.webp?text=Add+purple-background.webp+to+src/assets';
 
 const Projectssection = () => {
     const projects = [
