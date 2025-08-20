@@ -1,5 +1,5 @@
 import "./projectsection.css";
-import afterlifeMuseumImg from '@assets/purple-background.png';
+import afterlifeMuseumImg from '@assets/the-grand-egyptian-museum.jpg';
 import sunrisePyrImg from '@assets/sunrisepyr.png';
 
 const Projectssection = () => {
