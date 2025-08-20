@@ -1,5 +1,5 @@
 import "./projectsection.css";
-import afterlifeMuseumImg from '@assets/purple-background.png'; // ensure src/assets/purple-background.png exists (PNG version)
+import afterlifeMuseumImg from '@assets/purple-background.png';
 import sunrisePyrImg from '@assets/sunrisepyr.png';
 
 const Projectssection = () => {
