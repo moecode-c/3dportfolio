@@ -5,7 +5,7 @@ import path from 'node:path'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: process.env.VITE_BASE_PATH || "/3dportfolio",
+  base: './', 
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),
